@@ -1,0 +1,1 @@
+const o="/components/Three/metaquest.png",e="/components/Three/messengerdesktop.png",s="/components/Three/amazon-kindle.png",n="/components/Three/outlookmobile.png";export{o as _,e as a,s as b,n as c};
